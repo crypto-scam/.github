@@ -22,10 +22,14 @@
 
 ### Only Best Miners
 
-BTC Wallet: 1Jo9ZVHbGkKdgwqodwXXSr7YHoAzpSN8B1
-Network:TRC20 TRLRcE9Q7bTNygUCqtCprFLCgHcorHMu83
+* BTC Wallet: 1Jo9ZVHbGkKdgwqodwXXSr7YHoAzpSN8B1
+* Network:TRC20 TRLRcE9Q7bTNygUCqtCprFLCgHcorHMu83
+
+* https://www.facebook.com/profile.php?id=100071972239809
+
+```
 Only Best Miners
-https://www.facebook.com/profile.php?id=100071972239809
 Modlińska 310/312, 03-152 Warszawa, Poland , Warsaw, Poland
 726 556 346
 Kontakt@onlybestminers.pl
+```
